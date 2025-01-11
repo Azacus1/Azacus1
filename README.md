@@ -44,6 +44,15 @@
   </pre>
 </details>
 
+<details>
+<summary>What do you do other than building AI systems? 💁‍♂️</summary>
+<ul>    
+<li>I am highly skilled in music, particularly in singing, and often spend my time exploring and perfecting my vocal techniques.</li>
+<li>I also teach singing to help others discover and develop their musical abilities.</li>  
+</ul>
+</details>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 

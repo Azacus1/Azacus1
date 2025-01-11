@@ -9,8 +9,7 @@
 <h3 align="left">Connect with me:</h3>  
 <a href="https://www.linkedin.com/in/aman-srivastava-5b1068153"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/Azacus1"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="mailto:<!-- Replace with your mail id -->"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/<!-- Replace with your twitter id -->"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
+<a href="mailto:aman_srivastava14@outlook.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://www.instagram.com/cosmic_chiller"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
 <h3>What I do? 👨‍💻</h3>
@@ -64,6 +63,5 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <!-- Github Stats -->
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azacus1&show_icons=true&locale=en&layout=compact" alt="Aman Srivastava" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Azacus1&show_icons=true&locale=en" alt="Aman Srivastava" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Azacus1&" alt="Aman Srivastava" /></p>

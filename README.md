@@ -32,6 +32,7 @@
 <summary><strong>AI Engineer 📊</strong></summary>
 <ul>
   <li><a href="https://github.com/Azacus1/AI_Agent-for-Metering">AI AGENT FOR METERING</a></li>
+  <li><a href="https://github.com/Azacus1/Modelling-for-sin-wave-function">Anomaly detection</a></li>
   <li>Many more on and out of GitHub...</li>
 </ul>
 </details>

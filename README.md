@@ -32,6 +32,7 @@
 <summary><strong>AI Engineer 📊</strong></summary>
 <ul>
   <li><a href="https://github.com/Azacus1/AI_Agent-for-Metering">AI AGENT FOR METERING</a></li>
+  <li><a href="https://github.com/Azacus1/Modelling-for-sin-wave-function">ANOMALY DETECTION</a></li>
   <li>Many more on and out of GitHub...</li>
 </ul>
 </details>
@@ -40,7 +41,6 @@
 <summary><strong>Sr. Data Scientist @ <a href="https://crosslynxus.com/">Crosslynx</a> ⚡</strong></summary>
 <ul>
   <li>Developing AI solutions for High Impedance Fault Detection in electricity systems and deploying AI agents to enhance detection efficiency.</li>
-  <li><a href="https://github.com/Azacus1/Modelling-for-sin-wave-function">Anomaly detection</a></li>
   <li>Designing sophisticated AI algorithms for Electricity Theft Detection, leveraging advanced Time Series Analysis and Anomaly Detection techniques.</li>
 </ul>
 </details>
